@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+This project is for the team
 <!--
 **BinKoK/BinKoK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
